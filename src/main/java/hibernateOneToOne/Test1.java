@@ -1,12 +1,10 @@
-package hibernateTest2;
+package hibernateOneToOne;
 
-import hibernateTest2.entity.Detail;
-import hibernateTest2.entity.Employee;
+import hibernateOneToOne.entity.Detail;
+import hibernateOneToOne.entity.Employee;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
-
-import java.util.List;
 
 public class Test1 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package hibernateTest2.entity;
+package hibernateOneToOne.entity;
 
 import jakarta.persistence.*;
 
